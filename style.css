@@ -1,0 +1,71 @@
+h1, h6, h3{
+    text-align: center;
+    color: white;
+}
+h6 {
+    font-size: 5px;
+    color: white;
+}
+li {
+    position: relative;
+    color: white;
+    list-style-type: none;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+ol  {
+    color: white;
+}
+.midix {
+    text-decoration: none;
+    color: black;
+    font-size: 8px;
+}
+.midix:hover {
+    color: rgb(17, 17, 17);
+}
+.box{
+   text-align: center; 
+}
+.vscode {
+    position: relative;
+    font-size: 25px;
+    border-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    background: none;
+    color: white;
+    
+}
+.spotify {
+    position: relative;
+    font-size: 25px;
+    border-color: rgb(150, 150, 150);
+    border-radius: 5px;
+    background: none;
+    color: rgb(74, 74, 74);
+}
+.vscode:hover {
+    color: rgb(255, 255, 255);
+    
+}
+body {
+/* background-image: url('f01aa76b70308f4343333e625a9d07a7.jpg');
+background-size: cover;
+background-repeat: no-repeat; 
+background-position: center;  
+height: 100vh;                 */
+background-color: black;
+
+}
+.cola {
+    font-size: 8px;
+    color: white;
+}
+p {
+    color: white;
+    text-align: center;
+    font-size: 11;
+}
